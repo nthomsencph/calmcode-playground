@@ -1,0 +1,6 @@
+{
+    "project" : "calmcode-cookiecutter-module",
+    "author"  : "nicolai",
+    "project_slug" : "{{cookiecutter.project.lower().replace(' ', '_')}}",
+    "license" : ["MIT", "BSD"]
+}
